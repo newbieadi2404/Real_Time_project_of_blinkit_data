@@ -65,3 +65,10 @@ This analysis aims to provide a 360-degree view of Blinkit's business performanc
 - Analyze the data and insights to identify trends, patterns, and correlations
 - Develop recommendations and actionable insights for business stakeholders
 - Use storytelling techniques to effectively communicate the insights and findings to stakeholders
+## Outputs using some slicing filters 
+![avg rating](https://github.com/user-attachments/assets/ccede816-2a77-4824-b424-6c07e521d0d8)
+![dashboard_layout](https://github.com/user-attachments/assets/59dfdfe3-0189-4069-81fd-d537e0758d4f)
+![item type](https://github.com/user-attachments/assets/dc2c7ca5-794a-4368-ae27-1bf72ffca3b9)
+![outlet location type](https://github.com/user-attachments/assets/743365ab-99a9-49f3-8d23-987deec2378e)
+![outlet size](https://github.com/user-attachments/assets/c22f5c5f-fb1a-4ccf-aef4-ba70f583468d)
+![total sales](https://github.com/user-attachments/assets/5bdb78af-6fdd-4395-9aa5-4d7742827563)
