@@ -1,4 +1,4 @@
-# Real_Time_project_of_blinkit_data
+# Data_Analysis_And_Training_project_of_blinkit_data
 ## Overview
 This analysis aims to provide a 360-degree view of Blinkit's business performance, identifying key insights and opportunities for optimization. The analysis is divided into three main sections: `Sales Performance`, `Customer Satisfaction`, and `Inventory Distribution`.
 ## Pre-requisites
